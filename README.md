@@ -1,2 +1,2 @@
 My first readme
-README very carefully
+README @ www.github.com
