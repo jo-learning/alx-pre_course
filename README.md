@@ -1,2 +1,2 @@
-My first readme.md
+My first readme
 README @ www.github.com
